@@ -27,7 +27,7 @@ Founded in 1995 with support from WAPDA, GBTI focuses on poverty alleviation, in
 
 The repository includes a detailed breakdown of corporate governance channels, illustrating how reporting flows from the Board of Directors down to localized field sectors:
 
-![GBTI Organizational Structure](GBTI_Organizational_Structure.png)
+![GBTI Organizational Structure](GBTI-Organo-2022.png)
 
 ---
 
